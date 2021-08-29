@@ -11,7 +11,7 @@ class linkedlist:
         temp  = self.head
         while temp:
             print(temp.data)
-            temp =temp.next
+            temp =temp.nexta
 
     # def push(self,new_element):
     #     new_node =Node(new_element)
