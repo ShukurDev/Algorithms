@@ -1,4 +1,5 @@
-# Algorithms_course_Tasks
+# What is Algorithms
+- Introduction  ![more](https://www.geeksforgeeks.org/introduction-to-algorithms/) :
 
 
 Bu repositoryda turli xildagi misollarning  algoritmlarni Python va C++ dasturlash tillarida techilishi bor.
