@@ -1,5 +1,5 @@
 # What is Algorithms
-- Introduction  [more](https://www.geeksforgeeks.org/introduction-to-algorithms/) :heavy_check_mark:
+- Introduction with Algorithms  [more](https://www.geeksforgeeks.org/introduction-to-algorithms/) :heavy_check_mark:
 
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
