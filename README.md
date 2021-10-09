@@ -1,6 +1,11 @@
 # What is Algorithms
 - Introduction with Algorithms  [more](https://www.geeksforgeeks.org/introduction-to-algorithms/) :heavy_check_mark:
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+# What algorithms are there
+1. *There are Advanced, Medium, Simple algorithms here*
+2. *There are algorithms written in different programming languages here*
+3. *There is an algorithm for difficult problems*
 
-Bu repositoryda turli xildagi misollarning  algoritmlarni Python va C++ dasturlash tillarida techilishi bor.
+# What are the benefits to us
+- increases logic
+- problem solved
