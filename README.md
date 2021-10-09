@@ -16,4 +16,4 @@
 3. [robocontest.uz](https://robocontest.uz/)
 4. [algo.ubtuit.uz](https://algo.ubtuit.uz/)
 
-![algorithm[(https://www.techidence.com/wp-content/uploads/2020/05/Algorithm.jpg)
+![algorithm](https://www.techidence.com/wp-content/uploads/2020/05/Algorithm.jpg)
