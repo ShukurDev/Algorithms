@@ -9,3 +9,11 @@
 # What are the benefits to us
 - increases logic
 - problem solved
+
+# To enhance the algorithm for source
+1. [Let Code](https://leetcode.com/)
+2. [StackOverflow](https://stackoverflow.com/)
+3. [robocontest.uz](https://robocontest.uz/)
+4. [algo.ubtuit.uz](https://algo.ubtuit.uz/)
+
+[algo](https://www.techidence.com/wp-content/uploads/2020/05/Algorithm.jpg)
